@@ -49,6 +49,106 @@ Base mesh before modifiers: **797** vertices, **269** faces, **527** triangles.
 
 ## Gallery
 
+### Fox
+
+A stylized orange fox figurine on a small stand, with a white bib, dark nose, and a curled tail.
+
+**Source file:** [`models/fox/fox.blend`](models/fox/fox.blend)
+
+<p align="center">
+  <img src="renders/fox-beauty.jpg" alt="Stylized fox figurine" width="500">
+</p>
+
+### Miners
+
+A pair of stylized miner characters in clay, with horned helmets and headlamps, each holding a cut gem.
+
+**Source file:** [`models/miners/miners.blend`](models/miners/miners.blend)
+
+<p align="center">
+  <img src="renders/miners-beauty.jpg" alt="Two miner characters holding gems" width="800">
+</p>
+<p align="center">
+  <img src="renders/miners-angle.jpg" alt="Miners — three-quarter angle" width="800">
+</p>
+
+### Character grenade
+
+A stylized, faced grenade with a visor, lever, and ring pin.
+
+<p align="center">
+  <img src="renders/grenade-beauty.jpg" alt="Character grenade — beauty" width="400">
+  <img src="renders/grenade-angle.jpg" alt="Character grenade — angle" width="400">
+</p>
+
+### Cyberiada — mushroom boss and zombie
+
+Low-poly characters from the KUL-of-Duty [Cyberiada](https://github.com/KUL-of-Duty/CyberiadaMainGame) project, shown with their game textures.
+
+<p align="center">
+  <img src="renders/mushroom-boss.jpg" alt="Cyberiada mushroom boss" width="400">
+  <img src="renders/mushroom-zombie.jpg" alt="Cyberiada mushroom zombie" width="400">
+</p>
+
+### Demon statue
+
+A low-poly horned demon bust with glowing purple eyes.
+
+<p align="center">
+  <img src="renders/demon-statue.jpg" alt="Low-poly demon statue bust" width="800">
+</p>
+
+### Apples
+
+ZBrush BPR renders of a red and a green apple.
+
+<p align="center">
+  <img src="renders/apple-red.jpg" alt="Red apple — ZBrush BPR" width="400">
+  <img src="renders/apple-green.jpg" alt="Green apple — ZBrush BPR" width="400">
+</p>
+
+### Grass
+
+A stylized grass patch under a simple sun-and-sky backdrop.
+
+<p align="center">
+  <img src="renders/grass-beauty.jpg" alt="Stylized grass patch" width="800">
+</p>
+
+### Helicopter
+
+A hybrid / cyclogyro helicopter in a studio clay presentation. The source file includes the animation.
+
+**Source file:** [`models/helicopter/helicopter.blend`](models/helicopter/helicopter.blend)
+
+<p align="center">
+  <img src="renders/helicopter-beauty.jpg" alt="Helicopter — studio clay" width="800">
+</p>
+
+### Sword
+
+A textured medieval longsword — close-up of the hilt, guard, and ricasso from the Substance / Blender scene.
+
+<p align="center">
+  <img src="renders/sword-hilt.jpg" alt="Medieval sword — hilt close-up" width="800">
+</p>
+
+### Nike table
+
+The full Nike mesh stool / table form. The swoosh fabric close-up already lives in the gallery below as *Nike fabric*.
+
+<p align="center">
+  <img src="renders/nike-table.jpg" alt="Nike mesh stool / table" width="800">
+</p>
+
+### Cola can
+
+A studio beauty of a purple soda can.
+
+<p align="center">
+  <img src="renders/cola-can.jpg" alt="Purple cola can" width="800">
+</p>
+
 ### HUTSUL 3.2 lens
 
 A close-up of a camera lens with a petal hood, marked **HUTSUL 3.2** and **Kosiv.ZS**, under purple rim light.
@@ -108,12 +208,33 @@ More work, including character, prop, and environment pieces: **[dragodar02.gith
 ```text
 models/
   sneaker/
-    sneaker.blend      # source scene
+    sneaker.blend
+  fox/
+    fox.blend
+  miners/
+    miners.blend
+  helicopter/
+    helicopter.blend
 renders/
   sneaker-beauty.jpg
   sneaker-angle-left.jpg
   sneaker-angle-right.jpg
   sneaker-clay-wire.jpg
+  fox-beauty.jpg
+  miners-beauty.jpg
+  miners-angle.jpg
+  grenade-beauty.jpg
+  grenade-angle.jpg
+  mushroom-boss.jpg
+  mushroom-zombie.jpg
+  demon-statue.jpg
+  apple-red.jpg
+  apple-green.jpg
+  grass-beauty.jpg
+  helicopter-beauty.jpg
+  sword-hilt.jpg
+  nike-table.jpg
+  cola-can.jpg
   lens-hutsul.jpg
   mushroom-character.jpg
   mouse-character.jpg
