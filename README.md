@@ -65,6 +65,14 @@ A stylized mushroom character on a rock, with a red-and-yellow cap and a soft fo
   <img src="renders/mushroom-character.jpg" alt="Mushroom character on a rock" width="800">
 </p>
 
+### Mouse character
+
+A fluffy mouse with huge ears and round glasses, in a red hoodie, holding a cup.
+
+<p align="center">
+  <img src="renders/mouse-character.jpg" alt="Mouse character in glasses and a red hoodie" width="800">
+</p>
+
 ### Nike fabric
 
 A dark mesh fabric / seat study with a repeating Nike swoosh pattern.
@@ -108,6 +116,7 @@ renders/
   sneaker-clay-wire.jpg
   lens-hutsul.jpg
   mushroom-character.jpg
+  mouse-character.jpg
   nike-fabric.jpg
   nike-headphones-preview.gif
   lens-hutsul-preview.gif
